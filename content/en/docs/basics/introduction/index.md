@@ -11,6 +11,7 @@ menu:
     identifier: "intro-d2c050fb5faacaef26719b08ac79b55e"
 weight: 1
 toc: true
+url: "/"
 ---
 
 Welcome to the Saturn Docs site!
