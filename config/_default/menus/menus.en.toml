@@ -1,6 +1,6 @@
 [[main]]
   name = "Docs"
-  url = "/docs/basics/introduction/"
+  url = "/"
   identifier = "docs"
   weight = 1
 
@@ -8,21 +8,21 @@
       name = "Basics"
       weight = 10
       identifier = "docs-basics"
-      url = "/docs/basics/introduction"
+      url = "/"
       parent = "docs"
 
     [[main]]
       name = "Run A Node"
       weight = 20
       identifier = "docs-features"
-      url = "/docs/run-a-saturn-node/requirements/"
+      url = "/run-a-saturn-node/requirements/"
       parent = "docs"
 
     [[main]]
       name = "Use Saturn"
       weight = 30
       identifier = "docs-menus"
-      url = "/docs/use-saturn/getting-started/"
+      url = "/use-saturn/getting-started/"
       parent = "docs"
 
 
